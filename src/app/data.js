@@ -19,24 +19,24 @@ Websites:
 export const projectsData = [
   {
     id: 1,
-    name: "EcoTracker",
-    description: "Track your carbon footprint",
-    date: "2022-08-15",
-    demoLink: "https://ecotracker.example.com",
+    name: "Enote",
+    description: "Intelligent sheet music",
+    role: "NodeJs backend service developer ",
+    demoLink: "https://enote.com",
   },
   {
     id: 2,
-    name: "ArtGallery Online",
-    description: "Digital art showcase platform",
-    date: "2022-06-20",
-    demoLink: "https://artgalleryonline.example.com",
+    name: "Reconstruction US",
+    description: "Reconstruction offers culturally relevant online education that celebrates Black identity and heritage.",
+    role: "Full-stack Developer",
+    demoLink: "https://reconstruction.us/home",
   },
   {
     id: 3,
-    name: "BudgetPlanner",
-    description: "Plan and track expenses",
-    date: "2022-09-10",
-    demoLink: "https://budgetplanner.example.com",
+    name: "Ticketing System",
+    description: "Fullstack Sticketing system with Microservices and Kubernetes",
+    role: "Owner/Full-Stack/DevOps",
+    demoLink: "https://github.com/didasmbalanya/ticketing",
   },
   {
     id: 4,
@@ -45,48 +45,7 @@ export const projectsData = [
     date: "2022-05-30",
     demoLink: "https://healthbeat.example.com",
   },
-  {
-    id: 5,
-    name: "RecipeFinder",
-    description: "Discover new recipes",
-    date: "2022-07-12",
-    demoLink: "https://recipefinder.example.com",
-  },
-  {
-    id: 6,
-    name: "JourneyLogger",
-    description: "Log your travels",
-    date: "2022-10-01",
-    demoLink: "https://journeylogger.example.com",
-  },
-  {
-    id: 7,
-    name: "StudyBuddy",
-    description: "Collaborative learning platform",
-    date: "2022-04-18",
-    demoLink: "https://studybuddy.example.com",
-  },
-  {
-    id: 8,
-    name: "TechTalk",
-    description: "Tech news aggregator",
-    date: "2022-11-05",
-    demoLink: "https://techtalk.example.com",
-  },
-  {
-    id: 9,
-    name: "FitTrack",
-    description: "Fitness and workout tracker",
-    date: "2022-03-22",
-    demoLink: "https://fittrack.example.com",
-  },
-  {
-    id: 10,
-    name: "MindfulMoments",
-    description: "Meditation and mindfulness app",
-    date: "2022-02-14",
-    demoLink: "https://mindfulmoments.example.com",
-  },
+
 ];
 
 export const BtnList = [
@@ -114,7 +73,7 @@ export const BtnList = [
   },
   {
     label: "Resume",
-    link: "/resume.pdf",
+    link: "/https://docs.google.com/document/d/1pNbsCgevFsYlDwwt1Sf9KNW7OboX6xg8Op14OwLurTE/edit?usp=sharing",
     icon: "resume",
     newTab: true,
   },
